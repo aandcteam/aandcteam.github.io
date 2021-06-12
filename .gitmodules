@@ -1,0 +1,8 @@
+[submodule "public"]
+	path = public
+	url = https://github.com/aandcteam/aandc.github.io.git
+	branch = main
+[submodule "publiv"]
+	path = publiv
+	url = https://github.com/aandcteam/aandcteam.github.io.git
+	branch = main
